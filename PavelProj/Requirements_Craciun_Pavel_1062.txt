@@ -1,0 +1,16 @@
+First phase (100% Completed)
+1. Declare / implement the entities (classes)
+2. Create forms that allow users to input / update / delete data (at least for the three classes specified in the project topics)
+3. Add data validation (ErrorProvider control, Validating/Validated events, standard exceptions, custom exceptions)
+4. Implement Alt Shortcuts
+5. Add data serialization / deserialization
+6. Add the option to export a report as a txt file
+7. Use all the following menu controls: MenuStrip, ToolStrip, StatusStrip, ContextMenuStrip
+==============================================================================100%
+
+
+8. Draw a chart using the System.Drawing.Graphics class, in order to represent some statistics that are meaningful for your application. You should not use an existing chart control, like the one available in the ToolBox (the goal is to create such a control yourself). The control should be different from the ones available on http://github.com/liviucotfas (discussed during the course / during the labs). You can check the charts in Microsoft Excel for inspiration.
+(Done-100%)
+
+11. Use a relational database in order to persist data (for at least two different entities / classes) in your app---(60% done)
+12. Implement a UserControl (so that it can be distributed to other developers) in a separate project and use it in your app. The UserControl should provide a useful functionality for your app (please don't copy&paste a clock usercontrol from the internet ;) ) (0%)
